@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/multi-sensor-crop-phenotyping-platform-explainer/
 
+Repository: https://github.com/mizcausevic-dev/multi-sensor-crop-phenotyping-platform-explainer
+
 ## What this is
 
 An interactive anatomy plate for Multi-Sensor Crop Phenotyping Platform. Play, scrub, or jump the five stages. The same frame always draws the same picture.
